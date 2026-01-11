@@ -16,15 +16,17 @@
 
 ## Установка
 
-Склонируйте репозиторий:  
+1. Склонируйте репозиторий:  
 ```bash
 git clone https://github.com/yourusername/posture-corrector.git
 cd posture-corrector
 
-## Установите зависимости:
+## Установите зависимости
+
 pip install opencv-python mediapipe numpy
 
-## Запустите скрипт:
+## Запустите скрипт
+
 python posture_corrector.py
 
 ## Для выхода нажмите q в окне программы.
